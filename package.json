@@ -2,7 +2,7 @@
   "name": "edu-track",
   "version": "0.1.0",
   "private": true,
-  "homepage": "/", 
+  "homepage": "/",
   "dependencies": {
     "@date-io/dayjs": "^3.0.0",
     "@emotion/react": "^11.13.5",
@@ -69,5 +69,6 @@
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "index.js",
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "proxy": "http://localhost:5000" // Replace with your backend's local development URL
 }
