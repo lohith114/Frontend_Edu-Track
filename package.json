@@ -70,5 +70,5 @@
   "main": "index.js",
   "author": "",
   "license": "ISC",
-  "proxy": "http://localhost:5000" // Replace with your backend's local development URL
+  "proxy": "http://localhost:5000"
 }
