@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="%PUBLIC_URL%/text.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <meta
+      name="description"
+      content="Edu-Track - A platform to track and manage educational resources and progress."
+    />
+    
+    <!-- Open Graph Meta Tags -->
+    <meta property="og:title" content="Edu-Track" />
+    <meta property="og:description" content="Track and manage educational resources and progress." />
+    <meta property="og:image" content="%PUBLIC_URL%/text.png" />
+    <meta property="og:url" content="https://your-deployment-url.com" />
+    <meta property="og:type" content="website" />
+
+    <!-- Apple Touch Icon -->
+    <link rel="apple-touch-icon" href="%PUBLIC_URL%/text.png" />
+    
+    <!-- Web App Manifest -->
+    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+
+    <!-- Preload Fonts -->
+    <link
+      rel="preload"
+      href="%PUBLIC_URL%/fonts/Roboto-Regular.woff2"
+      as="font"
+      type="font/woff2"
+      crossorigin="anonymous"
+    />
+
+    <title>Edu-Track</title>
+    
+    <!-- Inline Styles for Fallback Fonts -->
+    <style>
+      body {
+        font-family: 'Roboto', Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <noscript>
+      <div style="text-align: center; padding: 20px; font-family: Arial, sans-serif;">
+        JavaScript is required to run this application. Please enable JavaScript in your browser settings.
+      </div>
+    </noscript>
+    <div id="root"></div>
+
+    <!-- Analytics (Optional) -->
+    <!-- 
+    <script async src="https://www.googletagmanager.com/gtag/js?id=YOUR_TRACKING_ID"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag('js', new Date());
+      gtag('config', 'YOUR_TRACKING_ID');
+    </script>
+    -->
+
+    <!-- 
+      This HTML file is a template.
+      The build step will place the bundled React scripts into the <body> tag.
+    -->
+  </body>
+</html>
