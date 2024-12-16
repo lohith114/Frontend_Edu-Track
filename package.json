@@ -2,7 +2,7 @@
   "name": "edu-track",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://lohith114.github.io/Frontend_Edu-Track/",
+  "homepage": "/",
   "dependencies": {
     "@date-io/dayjs": "^3.0.0",
     "@emotion/react": "^11.13.5",
@@ -43,8 +43,6 @@
     "gh-pages": "^6.2.0"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
