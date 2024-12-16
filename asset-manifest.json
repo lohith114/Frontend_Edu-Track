@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/edu-track/static/css/main.e6c13ad2.css",
+    "main.js": "/edu-track/static/js/main.e4d6250d.js",
+    "static/js/239.6ccc5c11.chunk.js": "/edu-track/static/js/239.6ccc5c11.chunk.js",
+    "static/js/213.43cad90a.chunk.js": "/edu-track/static/js/213.43cad90a.chunk.js",
+    "static/js/732.e595b021.chunk.js": "/edu-track/static/js/732.e595b021.chunk.js",
+    "static/js/453.c3080955.chunk.js": "/edu-track/static/js/453.c3080955.chunk.js",
+    "static/media/Logo_LMKS (1).png": "/edu-track/static/media/Logo_LMKS (1).746e09fc4feec7f8d55c.png",
+    "index.html": "/edu-track/index.html",
+    "main.e6c13ad2.css.map": "/edu-track/static/css/main.e6c13ad2.css.map",
+    "main.e4d6250d.js.map": "/edu-track/static/js/main.e4d6250d.js.map",
+    "239.6ccc5c11.chunk.js.map": "/edu-track/static/js/239.6ccc5c11.chunk.js.map",
+    "213.43cad90a.chunk.js.map": "/edu-track/static/js/213.43cad90a.chunk.js.map",
+    "732.e595b021.chunk.js.map": "/edu-track/static/js/732.e595b021.chunk.js.map",
+    "453.c3080955.chunk.js.map": "/edu-track/static/js/453.c3080955.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.e4d6250d.js"
+  ]
+}
